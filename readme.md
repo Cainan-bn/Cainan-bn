@@ -101,44 +101,6 @@ Tecnologias e conceitos utilizados:
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
-# 🚀 Projetos em destaque
-
-
-## 🤖 Monitoramento de Tokens e Latência
-
-Sistema de observabilidade para aplicações baseadas em **Modelos de Linguagem**.
-
-Funcionalidades:
-
-- análise de consumo de tokens
-- monitoramento de latência
-- controle de custo de API
-
----
-## 📬 Email Classifier com IA
-
-Sistema que utiliza **NLP + LLMs** para classificar emails em:
-
-- produtivos
-- improdutivos
-
-Tecnologias utilizadas:
-
-- Python
-- APIs de LLM
-- processamento de linguagem natural
-
-
----
-
 
 # 🌎 Conecte-se comigo
 
