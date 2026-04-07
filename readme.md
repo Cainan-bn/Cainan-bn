@@ -102,18 +102,6 @@ Aplicação Full Stack acadêmica em **Angular 17+** com separação clara entre
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cainan-bn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cainan-bn&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Vamos conversar?
 
 Estou aberto a oportunidades em **Engenharia de IA, Full Stack, Backend e Dados**. Se você tem um problema complexo que precisa de software bem construído — com ou sem IA —, quero ouvir.
