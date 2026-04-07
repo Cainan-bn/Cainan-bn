@@ -75,7 +75,7 @@ O que me diferencia: consigo pegar um problema de negócio real, modelar a solu�
 
 ## Projetos em Destaque
 
-### 🤖 [AI Insight Engine](https://github.com/Cainan-bn/AI-Insight-Engine)
+### 🤖 [AI Insight Engine](https://github.com/Cainan-bn/AI-Insight-Engine).
 > Pipeline automatizado de análise de notícias sobre IA com LLMs, observabilidade completa e dashboard interativo.
 
 Pipeline de ponta a ponta: scraping de notícias → processamento → análise com **GPT-4o-mini via OpenAI API** → API REST (FastAPI) → Dashboard (Streamlit). Inclui sistema de observabilidade próprio com rastreamento de tokens, latência e custo por requisição, além de avaliação automática de qualidade de prompts.
@@ -84,7 +84,7 @@ Pipeline de ponta a ponta: scraping de notícias → processamento → análise 
 
 ---
 
-### 🃏 [Assistente de Cartões IA](https://github.com/Cainan-bn/LINK-DO-REPO)
+### 🃏 [Assistente de Cartões IA](https://github.com/Cainan-bn/Assistente-de-cartao).
 > Sistema multiagente conversacional para operações de cartão de crédito, orquestrado por grafo de estados.
 
 Arquitetura de **agentes especializados** (fatura, limite, transações) com roteamento automático de intenção via classificador few-shot com structured output. Memória de sessão via Redis, retry resiliente com tenacity, containerização completa Docker multi-stage e logging estruturado em JSON.
@@ -93,7 +93,7 @@ Arquitetura de **agentes especializados** (fatura, limite, transações) com rot
 
 ---
 
-### 📚 [Catálogo de Livros — Angular](https://github.com/Cainan-bn/LINK-DO-REPO)
+### 📚 [Catálogo de Livros — Angular](https://github.com/Cainan-bn/angular-book-manager-solid).
 > Sistema de gestão de acervo com arquitetura limpa, tipagem estrita e boas práticas SOLID.
 
 Aplicação Full Stack acadêmica em **Angular 17+** com separação clara entre camadas `core` (lógica de negócio) e `features` (UI por domínio). Demonstra domínio de injeção de dependência, lifecycle hooks, two-way binding e otimizações de renderização com `trackBy`. Documentada com trade-offs explícitos entre abordagem didática e produção corporativa.
