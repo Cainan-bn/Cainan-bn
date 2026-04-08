@@ -1,9 +1,10 @@
 <div align="center">
 <img src="banner_github.svg" alt="" width="100%">
+# Cainã Barros do Nascimento
 
-### Full Stack Developer · Especialista em IA & LLMs 
+### Full Stack Developer 
 
-*Construo aplicações que pensam — unindo arquitetura de software robusta com a inteligência dos modelos de linguagem modernos.*
+*Construo aplicações que pensam, unindo arquitetura de software robusta com a inteligência dos modelos de linguagem modernos.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cainã-barros-0aaa0a282/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cainabnascimento@gmail.com)
@@ -15,13 +16,18 @@
 
 ## Sobre mim
 
-Minha trajetória começou longe das telas: passei anos como **Soldador Sênior**, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina — **disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos**.
+Minha trajetória começou longe das telas: passei anos como **Soldador Sênior**, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina, **disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos**.
 
 Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs. Sou um desenvolvedor Full Stack que **escolheu se especializar profundamente em IA** — não alguém que só conhece prompts.
 
 O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, **e ainda integrar inteligência artificial onde ela genuinamente agrega valor** — sem hype, com engenharia.
 
 ---
+## Formação Acadêmica
+Graduação em **Desenvolvimento Full Stack** |
+Universidade Estácio de Sá | Conclusão prevista: Dezembro/2027<br> 
+Formação em Engenharia de IA |
+Alura | Conclusão prevista: Setembro/2026 
 
 ## Stack Técnica
 
@@ -32,6 +38,7 @@ O que me diferencia: consigo pegar um problema de negócio real, modelar a solu�
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=graphql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Conceitos:** RAG Pipelines · Prompt Engineering · Structured Output · Agentes de IA · Embeddings · Observabilidade de LLMs (tokens, latência, custo) · Multi-agent Orchestration
@@ -43,6 +50,7 @@ O que me diferencia: consigo pegar um problema de negócio real, modelar a solu�
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Conceitos:** Clean Architecture · SOLID · Strategy Pattern · Repository Pattern · Retry/Backoff (tenacity) · Background Tasks · Pydantic v2 · Structured Logging (structlog)
 
@@ -52,6 +60,7 @@ O que me diferencia: consigo pegar um problema de negócio real, modelar a solu�
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,7 +84,7 @@ O que me diferencia: consigo pegar um problema de negócio real, modelar a solu�
 
 ## Projetos em Destaque
 
-### 🤖 [AI Insight Engine](https://github.com/Cainan-bn/AI-Insight-Engine).
+### 🤖 [AI Insight Engine](https://github.com/Cainan-bn/AI-Insight-Engine)
 > Pipeline automatizado de análise de notícias sobre IA com LLMs, observabilidade completa e dashboard interativo.
 
 Pipeline de ponta a ponta: scraping de notícias → processamento → análise com **GPT-4o-mini via OpenAI API** → API REST (FastAPI) → Dashboard (Streamlit). Inclui sistema de observabilidade próprio com rastreamento de tokens, latência e custo por requisição, além de avaliação automática de qualidade de prompts.
@@ -84,7 +93,7 @@ Pipeline de ponta a ponta: scraping de notícias → processamento → análise 
 
 ---
 
-### 🃏 [Assistente de Cartões IA](https://github.com/Cainan-bn/Assistente-de-cartao).
+### 🃏 [Assistente de Cartões IA](https://github.com/Cainan-bn/Assistente-de-cartao)
 > Sistema multiagente conversacional para operações de cartão de crédito, orquestrado por grafo de estados.
 
 Arquitetura de **agentes especializados** (fatura, limite, transações) com roteamento automático de intenção via classificador few-shot com structured output. Memória de sessão via Redis, retry resiliente com tenacity, containerização completa Docker multi-stage e logging estruturado em JSON.
@@ -93,7 +102,7 @@ Arquitetura de **agentes especializados** (fatura, limite, transações) com rot
 
 ---
 
-### 📚 [Catálogo de Livros — Angular](https://github.com/Cainan-bn/angular-book-manager-solid).
+### 📚 [Catálogo de Livros — Angular](https://github.com/Cainan-bn/angular-book-manager-solid)
 > Sistema de gestão de acervo com arquitetura limpa, tipagem estrita e boas práticas SOLID.
 
 Aplicação Full Stack acadêmica em **Angular 17+** com separação clara entre camadas `core` (lógica de negócio) e `features` (UI por domínio). Demonstra domínio de injeção de dependência, lifecycle hooks, two-way binding e otimizações de renderização com `trackBy`. Documentada com trade-offs explícitos entre abordagem didática e produção corporativa.
@@ -101,6 +110,7 @@ Aplicação Full Stack acadêmica em **Angular 17+** com separação clara entre
 `Angular 17+` `TypeScript` `Bootstrap 5` `SOLID` `Clean Architecture`
 
 ---
+
 
 ## Vamos conversar?
 
