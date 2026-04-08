@@ -1,6 +1,5 @@
 <div align="center">
 <img src="banner_github.svg" alt="" width="100%">
-# Cainã Barros do Nascimento
 
 ### Full Stack Developer 
 
