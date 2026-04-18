@@ -15,11 +15,9 @@
 
 ## Sobre mim
 
-Minha trajetória começou longe das telas: passei anos como **Soldador Sênior**, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina, **disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos**.
-
-Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs. Sou um desenvolvedor Full Stack que **escolheu se especializar profundamente em IA** — não alguém que só conhece prompts.
-
-O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, **e ainda integrar inteligência artificial onde ela genuinamente agrega valor** — sem hype, com engenharia.
+Minha trajetória começou longe das telas: passei anos como Soldador Sênior, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina, disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos.
+Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs, Chatbots, automação. agentes virtuais. Sou um desenvolvedor Full Stack que escolheu se especializar profundamente em IA — não alguém que só conhece prompts.
+O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, e ainda integrar inteligência artificial onde ela genuinamente agrega valor — sem hype, com engenharia.
 
 ---
 ## Formação Acadêmica
@@ -78,35 +76,6 @@ Alura | Conclusão prevista: Setembro/2026
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Projetos em Destaque
-
-### 🤖 [AI Insight Engine](https://github.com/Cainan-bn/AI-Insight-Engine)
-> Pipeline automatizado de análise de notícias sobre IA com LLMs, observabilidade completa e dashboard interativo.
-
-Pipeline de ponta a ponta: scraping de notícias → processamento → análise com **GPT-4o-mini via OpenAI API** → API REST (FastAPI) → Dashboard (Streamlit). Inclui sistema de observabilidade próprio com rastreamento de tokens, latência e custo por requisição, além de avaliação automática de qualidade de prompts.
-
-`Python` `FastAPI` `OpenAI API` `Pydantic v2` `Pandas` `Streamlit` `tenacity` `pytest`
-
----
-
-### 🃏 [Assistente de Cartões IA](https://github.com/Cainan-bn/Assistente-de-cartao)
-> Sistema multiagente conversacional para operações de cartão de crédito, orquestrado por grafo de estados.
-
-Arquitetura de **agentes especializados** (fatura, limite, transações) com roteamento automático de intenção via classificador few-shot com structured output. Memória de sessão via Redis, retry resiliente com tenacity, containerização completa Docker multi-stage e logging estruturado em JSON.
-
-`Python` `LangGraph` `LangChain` `GPT-4o` `FastAPI` `Redis` `Docker` `httpx` `pytest-asyncio`
-
----
-
-### 📚 [Catálogo de Livros — Angular](https://github.com/Cainan-bn/angular-book-manager-solid)
-> Sistema de gestão de acervo com arquitetura limpa, tipagem estrita e boas práticas SOLID.
-
-Aplicação Full Stack acadêmica em **Angular 17+** com separação clara entre camadas `core` (lógica de negócio) e `features` (UI por domínio). Demonstra domínio de injeção de dependência, lifecycle hooks, two-way binding e otimizações de renderização com `trackBy`. Documentada com trade-offs explícitos entre abordagem didática e produção corporativa.
-
-`Angular 17+` `TypeScript` `Bootstrap 5` `SOLID` `Clean Architecture`
 
 ---
 
