@@ -1,7 +1,7 @@
 <div align="center">
 <img src="banner_github.svg" alt="" width="100%">
 
-### Full Stack Developer 
+### Full Stack Developer in training
 
 *Construo aplicações que pensam, unindo arquitetura de software robusta com a inteligência dos modelos de linguagem modernos.*
 
@@ -16,7 +16,7 @@
 ## Sobre mim
 
 Minha trajetória começou longe das telas: passei anos como Soldador Sênior, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina, disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos.
-Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs, Chatbots, automação. agentes virtuais. Sou um desenvolvedor Full Stack que escolheu se especializar profundamente em IA — não alguém que só conhece prompts.
+Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs, Chatbots, automação. agentes virtuais. Sou um Desenvolvedor Full Stack em formação que escolheu se especializar profundamente em IA — não alguém que só conhece prompts.
 O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, e ainda integrar inteligência artificial onde ela genuinamente agrega valor — sem hype, com engenharia.
 
 ---
@@ -25,6 +25,17 @@ Graduação em **Desenvolvimento Full Stack** |
 Universidade Estácio de Sá | Conclusão prevista: Dezembro/2027<br> 
 Formação em Engenharia de IA |
 Alura | Conclusão prevista: Setembro/2026 
+
+## Cursos Complementares
+LangChain : Criando Chatbots Inteligentes com RAG  (Alura)<br>
+LangChain e Python : Criando ferramentas com OpenAI  (Alura)<br>
+Python: Inteligência Artificial Aplicada.  (Alura)<br>
+Arquiteturas RAG com LLMs: embeddings, busca semântica e
+criação de agentes com LangChain (Alura)<br>
+Pensamento Computacional (Alura)<br>
+MySQL -   (Gustavo Guanabara)
+
+---
 
 ## Stack Técnica
 
@@ -78,11 +89,10 @@ Alura | Conclusão prevista: Setembro/2026
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+<br>
+<br>
 
 
-## Vamos conversar?
-
-Estou aberto a oportunidades em **Engenharia de IA, Full Stack, Backend e Dados**. Se você tem um problema complexo que precisa de software bem construído — com ou sem IA —, quero ouvir.
 
 <div align="center">
 
