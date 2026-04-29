@@ -3,7 +3,6 @@
 
 ### Full Stack Developer in training
 
-*Construo aplicações que pensam, unindo arquitetura de software robusta com a inteligência dos modelos de linguagem modernos.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cainã-barros-0aaa0a282/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cainabnascimento@gmail.com)
@@ -17,12 +16,12 @@
 
 Minha trajetória começou longe das telas: passei anos como Soldador Sênior, trabalhando em estruturas de alta responsabilidade onde erro não era opção. Essa escola me formou em algo que nenhum bootcamp ensina, disciplina de execução, pensamento sistêmico e responsabilidade em ambientes críticos.
 Hoje aplico essa mesma mentalidade na engenharia de software. Construo desde aplicações Angular com arquitetura limpa até pipelines de IA com LangGraph, passando por APIs REST em FastAPI e sistemas de observabilidade de LLMs, Chatbots, automação. agentes virtuais. Sou um Desenvolvedor Full Stack em formação que escolheu se especializar profundamente em IA — não alguém que só conhece prompts.
-O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, e ainda integrar inteligência artificial onde ela genuinamente agrega valor — sem hype, com engenharia.
+O que me diferencia: consigo pegar um problema de negócio real, modelar a solução em código limpo, escalável e testável, e ainda integrar inteligência artificial onde ela genuinamente agrega valor (sem hype, com engenharia).
 
 ---
 ## Formação Acadêmica
 Graduação em **Desenvolvimento Full Stack** |
-Universidade Estácio de Sá | Conclusão prevista: Dezembro/2027<br> 
+Universidade Estácio de Sá | Em Andamento<br> 
 Formação em Engenharia de IA |
 Alura | Conclusão prevista: Setembro/2026 
 
