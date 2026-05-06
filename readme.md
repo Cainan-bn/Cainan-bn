@@ -32,6 +32,7 @@ Python: Inteligência Artificial Aplicada.  (Alura)<br>
 Arquiteturas RAG com LLMs: embeddings, busca semântica e
 criação de agentes com LangChain (Alura)<br>
 Pensamento Computacional (Alura)<br>
+Desenvolvimento Back-End .NET (Alura)<br>
 MySQL -   (Gustavo Guanabara)
 
 ---
