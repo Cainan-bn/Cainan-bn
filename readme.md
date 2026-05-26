@@ -17,27 +17,28 @@
 Desenvolvedor Full Stack em formação com especialização focada em Engenharia de
 IA, Machine learning, automação de fluxos e criação de agentes inteligentes. Sólido domínio em Python,
 JavaScript e TypeScript para o desenvolvimento de APIs escaláveis e integradas.
-Experiência prática na implementação de arquiteturas RAG e orquestração de LLMs
+Experiência prática na implementação de arquiteturas RAG/GraphRAG e orquestração de LLMs
 utilizando LangChain e LangGraph. Minha trajetória anterior em operações industriais
 complexas consolidou forte disciplina técnica, foco em código limpo, documentação
 detalhada e resiliência para resolver problemas sob pressão.
 
 ---
 ## Formação Acadêmica
-Graduação em **Desenvolvimento Full Stack** |
+- Graduação em **Desenvolvimento Full Stack** |
 Universidade Estácio de Sá | Em Andamento<br> 
-Formação em Engenharia de Agentes de IA |
+- Formação em Engenharia de Agentes de IA |
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
-LangChain : Criando Chatbots Inteligentes com RAG  (Alura)<br>
-LangChain e Python : Criando ferramentas com OpenAI  (Alura)<br>
-Python: Inteligência Artificial Aplicada.  (Alura)<br>
-Arquiteturas RAG com LLMs: embeddings, busca semântica e
+- Langchain : Técnicas Avançadas de RAG (alura)<br>
+- LangChain : Criando Chatbots Inteligentes com RAG  (Alura)<br>
+- LangChain e Python : Criando ferramentas com OpenAI  (Alura)<br>
+- Python: Inteligência Artificial Aplicada.  (Alura)<br>
+- Arquiteturas RAG com LLMs: embeddings, busca semântica e
 criação de agentes com LangChain (Alura)<br>
-Pensamento Computacional (Alura)<br>
-Desenvolvimento Back-End .NET (Alura)<br>
-MySQL -   (Gustavo Guanabara)
+- Pensamento Computacional (Alura)<br>
+- Desenvolvimento Back-End .NET (Alura)<br>
+- MySQL -   (Gustavo Guanabara)
 
 ---
 
