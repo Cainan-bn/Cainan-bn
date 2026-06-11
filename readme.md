@@ -26,10 +26,11 @@ detalhada e resiliência para resolver problemas sob pressão.
 ## Formação Acadêmica
 - Graduação em **Desenvolvimento Full Stack** |
 Universidade Estácio de Sá | Em Andamento<br> 
-- Formação em Engenharia de Agentes de IA |
+- Formação em Engenharia de IA |
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
+- LangGraph : Orquestrando Agentes e Multiagentes<br>
 - Langchain : Técnicas Avançadas de RAG (alura)<br>
 - LangChain : Criando Chatbots Inteligentes com RAG  (Alura)<br>
 - LangChain e Python : Criando ferramentas com OpenAI  (Alura)<br>
@@ -37,7 +38,6 @@ Alura | Conclusão prevista: Setembro/2026
 - Arquiteturas RAG com LLMs: embeddings, busca semântica e
 criação de agentes com LangChain (Alura)<br>
 - Pensamento Computacional (Alura)<br>
-- Desenvolvimento Back-End .NET (Alura)<br>
 - MySQL -   (Gustavo Guanabara)
 
 ---
