@@ -30,15 +30,16 @@ Universidade Estácio de Sá | Em Andamento<br>
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
+- Protocolos e arquitetura para construção de agentes: MCP, A2A, AG-UI e Backend for Agents (BFA)
 - LangGraph : Orquestrando Agentes e Multiagentes<br>
-- Langchain : Técnicas Avançadas de RAG (alura)<br>
-- LangChain : Criando Chatbots Inteligentes com RAG  (Alura)<br>
-- LangChain e Python : Criando ferramentas com OpenAI  (Alura)<br>
-- Python: Inteligência Artificial Aplicada.  (Alura)<br>
+- LangChain : Técnicas Avançadas de RAG <br>
+- LangChain : Criando Chatbots Inteligentes com RAG <br>
+- LangChain e Python : Criando ferramentas com OpenAI <br>
+- Python: Inteligência Artificial Aplicada.<br>
 - Arquiteturas RAG com LLMs: embeddings, busca semântica e
-criação de agentes com LangChain (Alura)<br>
-- Pensamento Computacional (Alura)<br>
-- MySQL -   (Gustavo Guanabara)
+criação de agentes com LangChain <br>
+- Pensamento Computacional <br>
+- MySQL 
 
 ---
 
