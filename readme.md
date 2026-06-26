@@ -30,6 +30,7 @@ Universidade Estácio de Sá | Em Andamento<br>
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
+- Clusterização: lidando com dados sem rótulo<br>
 - Protocolos e arquitetura para construção de agentes: MCP, A2A, AG-UI e Backend for Agents (BFA)
 - LangGraph : Orquestrando Agentes e Multiagentes<br>
 - LangChain : Técnicas Avançadas de RAG <br>
