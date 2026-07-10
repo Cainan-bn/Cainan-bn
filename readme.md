@@ -1,7 +1,7 @@
 <div align="center">
 <img src="banner_github.svg" alt="" width="100%">
 
-### Full Stack Developer in training
+### Full Stack Developer
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cainã-barros-0aaa0a282/)
@@ -14,13 +14,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack em formação com especialização focada em Engenharia de
-IA, Machine learning, automação de fluxos e criação de agentes inteligentes. Sólido domínio em Python,
-JavaScript e TypeScript para o desenvolvimento de APIs escaláveis e integradas.
-Experiência prática na implementação de arquiteturas RAG/GraphRAG e orquestração de LLMs
-utilizando LangChain e LangGraph. Minha trajetória anterior em operações industriais
-complexas consolidou forte disciplina técnica, foco em código limpo, documentação
-detalhada e resiliência para resolver problemas sob pressão.
+Graduando em **Desenvolvimento Full Stack** com especialização em **Engenharia de Agentes de IA**, desenvolvendo soluções baseadas em LLMs, sistemas multiagentes, RAG/GraphRAG e automação inteligente para aplicações de produção.
+
+Possuo experiência prática no desenvolvimento de arquiteturas com LangChain, LangGraph e Python, criando APIs escaláveis, fluxos de automação e integrações entre modelos de linguagem e sistemas externos.
+
+Minha trajetória anterior em operações industriais complexas fortaleceu disciplina técnica, pensamento analítico, documentação de qualidade e capacidade de resolver problemas críticos sob pressão.
 
 ---
 ## Formação Acadêmica
@@ -30,6 +28,9 @@ Universidade Estácio de Sá | Em Andamento<br>
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
+- Redes Neurais Convolucionais: Deep Learning<br>
+- Redes Neurais Recorrentes: Deep Learning com Pytorch<br>
+- Treinando Rede Neural : Deep Learning com Pytorch<br>
 - Redes Neurais: Deep Learning<br>
 - NLP: aplicando processamento de linguagem natural para análise de sentimentos<br>
 - Clusterização: lidando com dados sem rótulo<br>
