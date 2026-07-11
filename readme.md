@@ -28,6 +28,9 @@ Universidade Estácio de Sá | Em Andamento<br>
 Alura | Conclusão prevista: Setembro/2026 
 
 ## Cursos Complementares
+- Transformers: fundamentos e prática com PyTorch<br>
+- Modelos de Difusão: fundamentos e aplicações avançadas<br>
+- Hugging Face: explorando e aplicando soluções com modelos de IA<br>
 - Redes Neurais Convolucionais: Deep Learning<br>
 - Redes Neurais Recorrentes: Deep Learning com Pytorch<br>
 - Treinando Rede Neural : Deep Learning com Pytorch<br>
