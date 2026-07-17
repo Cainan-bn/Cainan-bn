@@ -105,41 +105,40 @@ AGENTIC AI · LLMs · RAG · LLMOPS
 </text>
 
 
-<!-- Stack Pills -->
+<!-- Centered Agentic Stack Pills -->
 
-
-<rect x="105" y="150" width="65" height="18" rx="4" fill="#0C447C"/>
-<text x="137" y="163" text-anchor="middle" class="tag">
+<rect x="155" y="150" width="65" height="18" rx="4" fill="#0C447C"/>
+<text x="187" y="163" text-anchor="middle" class="tag">
 LangGraph
 </text>
 
 
-<rect x="180" y="150" width="45" height="18" rx="4" fill="#085041"/>
-<text x="202" y="163" text-anchor="middle" class="tag">
+<rect x="230" y="150" width="45" height="18" rx="4" fill="#085041"/>
+<text x="252" y="163" text-anchor="middle" class="tag">
 MCP
 </text>
 
 
-<rect x="235" y="150" width="45" height="18" rx="4" fill="#3C3489"/>
-<text x="257" y="163" text-anchor="middle" class="tag">
+<rect x="285" y="150" width="45" height="18" rx="4" fill="#3C3489"/>
+<text x="307" y="163" text-anchor="middle" class="tag">
 A2A
 </text>
 
 
-<rect x="290" y="150" width="45" height="18" rx="4" fill="#085041"/>
-<text x="312" y="163" text-anchor="middle" class="tag">
+<rect x="340" y="150" width="45" height="18" rx="4" fill="#085041"/>
+<text x="362" y="163" text-anchor="middle" class="tag">
 BFA
 </text>
 
 
-<rect x="345" y="150" width="48" height="18" rx="4" fill="#0C447C"/>
-<text x="369" y="163" text-anchor="middle" class="tag">
+<rect x="395" y="150" width="48" height="18" rx="4" fill="#0C447C"/>
+<text x="419" y="163" text-anchor="middle" class="tag">
 RAG
 </text>
 
 
-<rect x="405" y="150" width="60" height="18" rx="4" fill="#3C3489"/>
-<text x="435" y="163" text-anchor="middle" class="tag">
+<rect x="453" y="150" width="60" height="18" rx="4" fill="#3C3489"/>
+<text x="483" y="163" text-anchor="middle" class="tag">
 Python
 </text>
 
