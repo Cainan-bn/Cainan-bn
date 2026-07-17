@@ -1,7 +1,7 @@
 <div align="center">
 <img src="banner_github.svg" alt="" width="100%">
 
-### ### Applied AI Engineer | Agentic Systems | LLM Engineering
+### Applied AI Engineer | Agentic Systems | LLM Engineering
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cainã-barros-0aaa0a282/)
@@ -26,7 +26,7 @@ Possuo interesse em arquiteturas de produção para IA, incluindo orquestração
 * 🎓 **Graduação em Desenvolvimento Full Stack** | Universidade Estácio de Sá | ⏳ *Em Andamento*
 * 🚀 **Formação em AI Agent Engineering** (265h) | Alura | ✅ *Concluído*<br>
 
-## 🤖 AI Agent Engineering Track — Alura
+## 🤖 AI Agent Engineering Track — Alura (Certifications)
 
 #### Agentic AI e Sistemas Multiagentes
 - Protocolos e Arquiteturas para Construção de Agentes: MCP, A2A, AG-UI e Backend for Agents (BFA)
