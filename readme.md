@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com formação em Engenharia de Agentes de IA, projetando sistemas inteligentes baseados em LLMs, agentes de IA e arquiteturas agentic para automação de processos complexos.
+Graduando em Desenvolvimento Full Stack com formação em Engenharia de Agentes de IA, projetando sistemas inteligentes baseados em LLMs, agentes de IA e arquiteturas agentic para automação de processos complexos.
 
 Minha experiência concentra-se na construção de aplicações utilizando Python, LangChain, LangGraph, MCP, RAG, GraphRAG e integração entre modelos de linguagem, APIs e sistemas externos.
 
@@ -23,7 +23,7 @@ Possuo interesse em arquiteturas de produção para IA, incluindo orquestração
 ---
 ## 📚 Formação Acadêmica
 
-* 🎓 **Graduação em Desenvolvimento Full Stack** | Universidade Estácio de Sá | ⏳ *Em Andamento*
+* 🎓 **Graduação em Desenvolvimento Full Stack** | Universidade Estácio de Sá | ⏳ *DEZ/2027*
 * 🚀 **Formação em Engenharia de Agentes de IA** (234h) | Alura | ✅ *Concluído*<br>
 
 ## 🤖 Engenharia de IA Track — Alura (Certificados)
