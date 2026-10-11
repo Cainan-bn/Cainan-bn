@@ -24,7 +24,7 @@ Possuo interesse em arquiteturas de produção para IA, incluindo orquestração
 ## 📚 Formação Acadêmica
 
 * 🎓 **Graduação em Desenvolvimento Full Stack** | Universidade Estácio de Sá | ⏳ *Em Andamento*
-* 🚀 **Formação em Engenharia de Agentes de IA (234h) | Alura | ✅ *Concluído*<br>
+* 🚀 **Formação em Engenharia de Agentes de IA** (234h) | Alura | ✅ *Concluído*<br>
 
 ## 🤖 Engenharia de IA Track — Alura (Certificados)
 
