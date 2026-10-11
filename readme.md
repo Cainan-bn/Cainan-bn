@@ -24,9 +24,9 @@ Possuo interesse em arquiteturas de produção para IA, incluindo orquestração
 ## 📚 Formação Acadêmica
 
 * 🎓 **Graduação em Desenvolvimento Full Stack** | Universidade Estácio de Sá | ⏳ *Em Andamento*
-* 🚀 **Formação em AI Agent Engineering** (234h) | Alura | ✅ *Concluído*<br>
+* 🚀 **Formação em Engenharia de Agentes de IA (234h) | Alura | ✅ *Concluído*<br>
 
-## 🤖 AI Agent Engineering Track — Alura (Certifications)
+## 🤖 Engenharia de IA Track — Alura (Certificados)
 
 #### Agentic AI e Sistemas Multiagentes
 - Protocolos e Arquiteturas para Construção de Agentes: MCP, A2A, AG-UI e Backend for Agents (BFA)
