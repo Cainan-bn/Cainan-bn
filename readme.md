@@ -20,6 +20,9 @@ Minha experiência concentra-se na construção de aplicações utilizando Pytho
 
 Possuo interesse em arquiteturas de produção para IA, incluindo orquestração de agentes, avaliação de LLMs, observabilidade, pipelines de recuperação de contexto, Tool Calling e protocolos para comunicação entre agentes.
 
+Minha trajetória profissional, minha transição para a tecnologia, meus estudos, projetos e objetivos de carreira agora estão reunidos em um só lugar. Mais do que apresentar o que faço hoje, esse espaço conta a história de onde vim, o caminho que estou construindo e onde quero chegar. 🚀
+
+🔗 https://www.kain-ai.com.br/
 ---
 ## 📚 Formação Acadêmica
 
