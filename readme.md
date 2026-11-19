@@ -154,7 +154,7 @@ Minha trajetória profissional, minha transição para a tecnologia, meus estudo
   github.com/anuraghazra/github-readme-stats, publique na Vercel com seu PAT
   e troque "https://github-readme-stats.vercel.app" pela URL da sua instância.
 -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cainan-bn&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0F2027&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF&ring_color=2DD4BF" alt="Estatísticas gerais do GitHub de Cainã Barros">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cainan-bn&show_icons=true&locale=pt-br&hide_border=true&bg_color=0F2027&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF&ring_color=2DD4BF" alt="Estatísticas gerais do GitHub de Cainã Barros">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cainan-bn&layout=compact&langs_count=6&locale=pt-br&hide_border=true&bg_color=0F2027&title_color=2DD4BF&text_color=C9D1D9" alt="Linguagens mais usadas por Cainã Barros">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cainan-bn&bg_color=0F2027&color=C9D1D9&title_color=2DD4BF&line=2DD4BF&point=E6EDF3&area=true&area_color=2DD4BF&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de contribuições de Cainã Barros nos últimos 31 dias">
